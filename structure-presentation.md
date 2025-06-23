@@ -8,7 +8,7 @@
 
 ### Website
 
-> explication de comment le site actuel fonctionne.
+> Explication de comment le site actuel fonctionne.
 
 ### Organigrammes de l'équipe
 
@@ -24,25 +24,25 @@
 
 ### Questions préparatoire
 
-> extrait de questions et réponses.
+> Extrait de questions et réponses.
 
 ### Tableau de problématiques
 
-> extrait de problèmes et solutions.
+> Extrait de problèmes et solutions.
 
 ### Exigences fonctionnelles et non foctionnelles
 
-> extrait d'exigences fonctionnelles et non fonctionnelles.
+> Extrait d'exigences fonctionnelles et non fonctionnelles.
 
 ### Règles de gestion
 
-> extrait de règles de gestion.
+> Extrait de règles de gestion.
 
-### Conclusion
+### Livrables
 
-> suite a cette prise d'information et réléxion nous avons repris rdv avec le client pour présenter nos solutions.
+> Suite a cette prise d'information et réléxion nous avons repris rdv avec le client pour présenter nos solutions.
 
-> MVP
+> MVP.
 
 ---
 
@@ -50,8 +50,104 @@
 
 ### Methodologie de travail
 
-> Scrumban
+> Scrumban.
+
+> Outils utilisés.
+
+> Rôles attribués.
+
+### Versionning
+
+> Règles de contribution.
+
+### IDE
+
+> VS Code, Intellij.
 
 ---
 
-## Environnement de travail :
+## Base de données :
+
+### Conception
+
+> MCD  
+> MLD  
+> MPD
+
+> Benchmark
+
+> Dictionnaire de données
+
+### Sécurité
+
+> RGPD
+
+> Valider chaque entrées.
+
+> UUID, RBAC, mot de passe hashé.
+
+### Script SQL
+
+> Extrait d'une table.
+
+### Politique de rétention et sauvegardes
+
+> Documentation.
+
+---
+
+## API
+
+### Benchmark
+
+> Comparaison des frameworks et langages.
+
+### Conception
+
+> Diagramme de cas d'utilisation.
+
+> Diagramme de séquence.
+
+> Diagramme de classe.
+
+### Architecture
+
+> Architecture n tier (UI Layer / Business Layer / Data Layer).
+
+> Architecture (dossiers et fichiers).
+
+### Logique métier
+
+> Création d'évènement.
+
+### Composant d'accés aux données
+
+> Requêtes préparées / ORM.
+
+### Sécurité
+
+> Hashage et salage.
+
+> CORS.
+
+> En tête HTTPS.
+
+> Rate limiting.
+
+> Token JWT avec refresh token.
+
+### Tests
+
+> Tests unitaires, tests d'intégration, tests e2e, rapport de tests.
+
+---
+
+## Client
+
+### Conception
+
+> Wireframe.
+
+> Charte graphique.
+
+> Maquettes.
