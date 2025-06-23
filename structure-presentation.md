@@ -4,7 +4,11 @@
 
 ### C'est quoi Agorafolk ?
 
-> Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d’agoraphobie, de phobie sociale ou d'autres troubles anxieux. Il encourage la pair-aidance, le lien social et le soutien mutuel.
+> Petit introduction d'Agorafolk.
+
+**exemple :**
+
+_Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d’agoraphobie, de phobie sociale ou d'autres troubles anxieux. Il encourage la pair-aidance, le lien social et le soutien mutuel._
 
 ### Website
 
@@ -60,9 +64,11 @@
 
 > Règles de contribution.
 
-### IDE
+### Outils utilisés
 
-> VS Code, Intellij.
+> Choix de l'ide.
+
+> Extensions utilisés.
 
 ---
 
@@ -70,13 +76,13 @@
 
 ### Conception
 
-> MCD  
-> MLD  
-> MPD
+> MCD.  
+> MLD.  
+> MPD.
 
-> Benchmark
+> Benchmark des SGBDR.
 
-> Dictionnaire de données
+> Dictionnaire de données.
 
 ### Sécurité
 
@@ -96,11 +102,15 @@
 
 ---
 
-## API
+## API :
 
 ### Benchmark
 
 > Comparaison des frameworks et langages.
+
+### Framework
+
+> Librairies utilisées.
 
 ### Conception
 
@@ -142,7 +152,15 @@
 
 ---
 
-## Client
+## Client :
+
+### Benchmark
+
+> Comparaison des frameworks et langages.
+
+### Framework
+
+> Librairies utilisées.
 
 ### Conception
 
@@ -151,3 +169,29 @@
 > Charte graphique.
 
 > Maquettes.
+
+### Interfaces utilisateur
+
+> Sanitisation des formulaires.
+
+> Responsive / Accessibilité.
+
+### Sécurité
+
+> CSP.
+
+> TLS.
+
+---
+
+## Déploiement :
+
+### Docker
+
+> Dockerfile.
+
+> Docker compose.
+
+> Monitoring.
+
+> Documentation.
