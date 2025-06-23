@@ -1,4 +1,4 @@
-# Structure de la présentation
+# Structure de la présentation
 
 ## Contexte et enjeux :
 
