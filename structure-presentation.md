@@ -170,7 +170,7 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 > Maquettes.
 
-### Interfaces utilisateur
+### Interfaces utilisateur
 
 > Sanitisation des formulaires.
 
