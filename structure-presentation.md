@@ -46,6 +46,8 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 > Suite a cette prise d'information et réléxion nous avons repris rdv avec le client pour présenter nos solutions.
 
+> Priorités.
+
 > MVP.
 
 ---
@@ -62,6 +64,9 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 ### Versionning
 
+> Github.
+> Workflow GitFlow.
+
 > Règles de contribution.
 
 ### Outils utilisés
@@ -74,6 +79,14 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 ## Base de données :
 
+### Sécurité
+
+> RGPD
+
+> Valider chaque entrées.
+
+> UUID, RBAC, politique de mot de passe.
+
 ### Conception
 
 > MCD.  
@@ -84,13 +97,9 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 > Dictionnaire de données.
 
-### Sécurité
+### Configuration de la base de données
 
-> RGPD
-
-> Valider chaque entrées.
-
-> UUID, RBAC, mot de passe hashé.
+> Roles et permissions.
 
 ### Script SQL
 
@@ -107,8 +116,6 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 ### Benchmark
 
 > Comparaison des frameworks et langages.
-
-### Framework
 
 > Librairies utilisées.
 
@@ -128,11 +135,13 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 ### Logique métier
 
-> Création d'évènement.
+> Création d'évènement (service, controller, model, dto, repository, interface, mapper).
 
 ### Composant d'accés aux données
 
 > Requêtes préparées / ORM.
+
+> Si ORM : Justifier le choix, création d'entité.
 
 ### Sécurité
 
@@ -146,6 +155,8 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 > Token JWT avec refresh token.
 
+> Logs.
+
 ### Tests
 
 > Tests unitaires, tests d'intégration, tests e2e, rapport de tests.
@@ -153,6 +164,14 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 ---
 
 ## Client :
+
+### Sécurité
+
+> CSP.
+
+> TLS.
+
+> Parler des menaces et y apporté des solutions.
 
 ### Benchmark
 
@@ -176,12 +195,6 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 
 > Responsive / Accessibilité.
 
-### Sécurité
-
-> CSP.
-
-> TLS.
-
 ---
 
 ## Déploiement :
@@ -195,3 +208,9 @@ _Agorafolk est un réseau social bienveillant destiné aux personnes souffrant d
 > Monitoring.
 
 > Documentation.
+
+### Github action
+
+> Script.
+
+> Rapport.

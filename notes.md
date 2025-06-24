@@ -1,0 +1,34 @@
+# Notes pour la présentaion
+
+- problématiques et solutions séparées
+- cadrage et priorités (livrables)
+- methodologie
+  - pas besoins de scrum master, cycles rigides
+  - solution kanban (tableau github project)
+  - manifestes agile (4)
+  - 4 valeurs et 12 principes
+  - epic, users stories, product backlog, tâches
+  - priorités : must, should, could, won't have.
+  - en tant que / j'ai besoin de / afin de
+- Git / Github
+  - Workflow GitFlow
+  - 5 fichiers grand max pour les pull request
+  - convention de commits
+    - commits angular : type(scope): description
+- RGPD dans la section BDD
+  - Parler des droits (4)
+  - politique des mots de passes
+- configuration de la bdd (roles et permissions)
+- docker
+  - dockerfile
+  - docker compose
+- RBAC (détaillé les permissions)
+- CORS (détaillé la SOP)
+- ORM
+  - justifié le choix
+  - création d'entité
+  - orm dans docker
+- logs back end
+- composant métier (montrer : service, controller, model, dto, repository, interface, mapper)
+- front end
+  - parler des menaces et des solutions
